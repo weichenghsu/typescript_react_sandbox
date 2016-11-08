@@ -21,6 +21,9 @@
     "yarn": "^0.16.1"
   },
   "dependencies": {
-    "react": "^15.3.2"
+    "@types/react": "^0.14.44",
+    "@types/react-dom": "^0.14.18",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
   }
 }
