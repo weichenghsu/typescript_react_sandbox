@@ -19,5 +19,8 @@
   "homepage": "https://github.com/weichenghsu/typescript_react_sandbox#readme",
   "devDependencies": {
     "yarn": "^0.16.1"
+  },
+  "dependencies": {
+    "react": "^15.3.2"
   }
 }
